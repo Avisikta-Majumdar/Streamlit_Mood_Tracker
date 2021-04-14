@@ -1,0 +1,4 @@
+streamlit
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import emoji
+import pyjokes
